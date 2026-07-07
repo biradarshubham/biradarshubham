@@ -1,7 +1,5 @@
+![logo](https://github.com/biradarshubham/biradarshubham/blob/main/shubhambiradar.png)
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:405DE6,25:833AB4,50:C13584,75:FD1D1D,100:FCAF45&height=220&section=header&text=Shubham%20Vijaykumar%20Biradar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20Microservices%20%7C%20React&descAlignY=55&descSize=18" width="100%"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer+%40+Test+Yantra;Java+Backend+%7C+Spring+Boot+Developer;Building+Scalable+Microservices;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </a>
@@ -61,21 +59,6 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
-
----
-
-### 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/biradarshubham">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=biradarshubham&repo=food-order-processing-system&theme=nightowl&hide_border=true" alt="Featured Repo"/>
-</a>
-
-**🍔 Online Food Order Processing System**
-A 4-service Spring Boot microservices architecture with **Camunda BPM** workflow orchestration, **ActiveMQ** messaging, and a **React** frontend — fully documented, end to end.
 
 </div>
 
