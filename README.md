@@ -7,7 +7,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=biradarshubham&label=Profile%20Views&color=2C5364&style=for-the-badge" alt="profile views"/>
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
-  <img src="https://img.shields.io/badge/Open%20to-Backend%20Roles-success?style=for-the-badge&logo=handshake&logoColor=white" alt="open to work"/>
+  <img src="https://img.shields.io/badge/working%20to-Train%20Developers-success?style=for-the-badge&logo=handshake&logoColor=white" alt="train"/>
 </p>
 
 </div>
@@ -17,13 +17,12 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working as an **Associate Software Engineer** at **Test Yantra Software Solution**
-- 🎯 Focused on **Java Backend Development**, **Spring Boot**, and **Microservices Architecture**
-- 🏗️ Recently architected a **4-service microservices system** (Online Food Order Processing) using **Spring Boot, Camunda BPM, ActiveMQ & React**
-- 🌱 Deepening my expertise in **Spring Security, JWT, Redis, and distributed systems**
+- 🎯 Focused on **Java Backend Development**, **Spring Boot**, and **MVC Architecture**
+- 🏗️ Recently working on **siple spring boot projects**
+- 🌱 Deepening my expertise in **Spring Boot, hubernate**
 - 💬 Ask me about **Java, Advanced Java, Hibernate/JPA, Spring Framework, REST APIs**
 - 📫 Reach me at **shubhambiradar0812@gmail.com**
 - ⚡ Fun fact: **Coffee ☕ + Java ☕ = my favorite development environment**
-
 ---
 
 ### 🛠️ Tech Stack
@@ -42,9 +41,6 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Camunda%20BPM-FC5D0D?style=for-the-badge&logo=camunda&logoColor=white"/>
-<img src="https://img.shields.io/badge/ActiveMQ-D82B2B?style=for-the-badge&logo=apache&logoColor=white"/>
 
 **Frontend**
 
