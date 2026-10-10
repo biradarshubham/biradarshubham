@@ -96,7 +96,7 @@ flowchart LR
 
 <br/>
 
-## 📸 `git log --faces`
+## 📸 ` Projects `
 
 <div align="center">
 <table>
