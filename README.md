@@ -16,7 +16,7 @@
 <tr>
 <td width="34%" align="center" valign="middle">
 
-<video src="./dev.m4" alt="Shubham Biradar" autoplay muted controls />
+<video src="https://github.com/biradarshubham/biradarshubham/blob/07c37bde5fcb03647abc548ea86bfa4fa89982e6/dev.mp4" alt="Shubham Biradar" autoplay muted controls />
 
 
 **`< Shubham />`**
