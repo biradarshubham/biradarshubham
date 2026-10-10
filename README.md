@@ -1,7 +1,7 @@
 ![logo](https://github.com/biradarshubham/biradarshubham/blob/main/shubham_banner.png)
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=700&height=45&lines=%24+whoami+%E2%86%92+Shubham+Biradar;Associate+Software+Engineer+%40+Test+Yantra;System.out.println(%22Building+scalable+backends%22)%3B;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;while(alive)+%7B+learn()%3B+code()%3B+ship()%3B+%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=700&height=45&lines=%24+who+ami+%E2%86%92+Shubham+Vijaykuamr+Biradar;Associate+Software+Engineer+%40+TestYantra;System.out.println(%22Building+scalable+backends%22)%3B;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;while(alive)+%7B+learn()%3B+code()%3B+ship()%3B+%7D)](https://git.io/typing-svg)
 
 ![Views](https://komarev.com/ghpvc/?username=biradarshubham&label=PROFILE+VIEWS&color=00f5d4&style=flat-square&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/📍_Pune,Maharashtra-India-00f5d4?style=flat-square&labelColor=0d1117)
@@ -16,7 +16,7 @@
 <tr>
 <td width="34%" align="center" valign="middle">
 
-<video src="https://github.com/biradarshubham/biradarshubham/blob/07c37bde5fcb03647abc548ea86bfa4fa89982e6/dev.mp4" alt="Shubham Biradar" autoplay muted controls />
+<img src="(https://github.com/biradarshubham/biradarshubham/blob/870a3dbfdb4f5e2f97c0d9223700ef7746626c39/devloper.gif)" alt="Shubham Biradar" width="100%">
 
 
 **`< Shubham />`**
@@ -27,10 +27,10 @@
 ```java
 public class Developer {
 
-    String name      = "Shubham Biradar";
+    String name      = "Shubham Vijaykumar Biradar";
     String role      = "Associate Software Engineer";
-    String company   = "Test Yantra Software Solution";
-    String location  = "Bengaluru, India";
+    String company   = "TestYantra Software Solution";
+    String location  = "Pune, Maharashtra, India";
 
     String[] stack   = { "Java", "Spring Boot", "Hibernate/JPA",
                          "REST APIs", "MySQL", "PostgreSQL" };
@@ -60,7 +60,7 @@ shubham@dev:~$ cat about.txt
 🎯  Focus   → Java Backend · Spring Boot · MVC Architecture
 🌱  Growing → Hibernate/JPA · Spring Framework · REST APIs
 💬  Ask me about Java, Advanced Java, JPA, Spring & APIs
-🎓  Mission → Help train and grow fellow developers
+🎓  Mission → learn from mistake develop with improvements
 
 shubham@dev:~$ echo $FUN_FACT
 Coffee ☕ + Java ☕ = my favorite development environment
