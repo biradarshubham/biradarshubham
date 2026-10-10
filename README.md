@@ -1,91 +1,148 @@
-![logo](https://github.com/biradarshubham/biradarshubham/blob/main/shubhambiradar.png)
-<div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer+%40+Test+Yantra;Java+Backend+%7C+Spring+Boot+Developer;Building+Scalable+Microservices;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
-</a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=biradarshubham&label=Profile%20Views&color=2C5364&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
-  <img src="https://img.shields.io/badge/working%20to-Train%20Developers-success?style=for-the-badge&logo=handshake&logoColor=white" alt="train"/>
-</p>
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 Currently working as an **Associate Software Engineer** at **Test Yantra Software Solution**
-- 🎯 Focused on **Java Backend Development**, **Spring Boot**, and **MVC Architecture**
-- 🏗️ Recently working on **siple spring boot projects**
-- 🌱 Deepening my expertise in **Spring Boot, hubernate**
-- 💬 Ask me about **Java, Advanced Java, Hibernate/JPA, Spring Framework, REST APIs**
-- 📫 Reach me at **shubhambiradar0812@gmail.com**
-- ⚡ Fun fact: **Coffee ☕ + Java ☕ = my favorite development environment**
----
-
-### 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=SHUBHAM%20BIRADAR&fontSize=48&fontColor=00f5d4&fontAlignY=42&animation=twinkling&desc=%7B%20Java%20Backend%20Developer%20%7C%20Spring%20Boot%20Engineer%20%7D&descSize=18&descColor=c9d1d9&descAlignY=68" width="100%"/>
 
 <div align="center">
 
-**Languages & Core**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=700&height=45&lines=%24+whoami+%E2%86%92+Shubham+Biradar;Associate+Software+Engineer+%40+Test+Yantra;System.out.println(%22Building+scalable+backends%22)%3B;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;while(alive)+%7B+learn()%3B+code()%3B+ship()%3B+%7D)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-**Backend & Frameworks**
-
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-**Databases & Tools**
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+![Views](https://komarev.com/ghpvc/?username=biradarshubham&label=PROFILE+VIEWS&color=00f5d4&style=flat-square&labelColor=0d1117)
+![Location](https://img.shields.io/badge/📍_Bengaluru-India-00f5d4?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/status-open_to_collaborate-39ff14?style=flat-square&labelColor=0d1117)
+![Coffee](https://img.shields.io/badge/fuel-coffee_☕_+_Java_☕-ED8B00?style=flat-square&labelColor=0d1117)
 
 </div>
 
----
+<br/>
 
-### 📊 GitHub Stats
+<table>
+<tr>
+<td width="34%" align="center" valign="middle">
+
+<video src="./dev.m4" alt="Shubham Biradar" autoplay muted controls />
+
+
+**`< Shubham />`**
+
+</td>
+<td width="66%" valign="top">
+
+```java
+public class Developer {
+
+    String name      = "Shubham Biradar";
+    String role      = "Associate Software Engineer";
+    String company   = "Test Yantra Software Solution";
+    String location  = "Bengaluru, India";
+
+    String[] stack   = { "Java", "Spring Boot", "Hibernate/JPA",
+                         "REST APIs", "MySQL", "PostgreSQL" };
+
+    String currently = "Building Spring Boot projects";
+    String learning  = "Spring Boot, Hibernate, Microservices";
+
+    String contact   = "shubhambiradar0812@gmail.com";
+
+    public String motto() {
+        return "Always learning, always shipping.";
+    }
+}
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💻 `~/terminal`
+
+```bash
+shubham@dev:~$ cat about.txt
+🔭  Associate Software Engineer @ Test Yantra Software Solution
+🎯  Focus   → Java Backend · Spring Boot · MVC Architecture
+🌱  Growing → Hibernate/JPA · Spring Framework · REST APIs
+💬  Ask me about Java, Advanced Java, JPA, Spring & APIs
+🎓  Mission → Help train and grow fellow developers
+
+shubham@dev:~$ echo $FUN_FACT
+Coffee ☕ + Java ☕ = my favorite development environment
+```
+
+<br/>
+
+## 🧰 `pom.xml` → Tech Stack
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=biradarshubham&show_icons=true&theme=nightowl&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biradarshubham&layout=compact&theme=nightowl&hide_border=true"/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,mongodb,oracle,js,html,css,react,bootstrap,git,github,postman,idea,eclipse,vscode&perline=10" alt="tech stack"/>
+
 </div>
+
+<br/>
+
+## 🏗️ How I Structure a Backend
+
+```mermaid
+flowchart LR
+    A([🖥️ Client]) -->|HTTP / REST| B[Controller]
+    B --> C[Service Layer]
+    C --> D[Repository / JPA]
+    D --> E[(🗄️ Database)]
+    E -.-> D -.-> C -.-> B -.->|JSON| A
+    style A fill:#0d1117,stroke:#00f5d4,color:#00f5d4
+    style B fill:#0d1117,stroke:#6DB33F,color:#6DB33F
+    style C fill:#0d1117,stroke:#ED8B00,color:#ED8B00
+    style D fill:#0d1117,stroke:#59666C,color:#c9d1d9
+    style E fill:#0d1117,stroke:#4479A1,color:#4479A1
+```
+
+<br/>
+
+## 📸 `git log --faces`
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=biradarshubham&theme=nightowl&hide_border=true" alt="streak stats"/>
+<table>
+<tr>
+<td align="center"><img src="assets/photo-1.jpg" width="230" alt="Shubham"/><br/><sub><code>commit: confident</code></sub></td>
+<td align="center"><img src="assets/photo-3.jpg" width="230" alt="Shubham"/><br/><sub><code>commit: always smiling</code></sub></td>
+<td align="center"><img src="assets/photo-2.jpg" width="230" alt="Shubham"/><br/><sub><code>commit: ready to ship</code></sub></td>
+</tr>
+</table>
 </div>
+
+<br/>
+
+## 📊 `git stats`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=biradarshubham&theme=react-dark&hide_border=true" alt="activity graph" width="90%"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=biradarshubham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00f5d4&icon_color=00f5d4"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biradarshubham&layout=compact&theme=tokyonight&hide_border=true&title_color=00f5d4"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=biradarshubham&theme=tokyonight&hide_border=true&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biradarshubham&theme=react-dark&hide_border=true&color=00f5d4&line=00f5d4&point=ffffff&area=true&area_color=00f5d4" alt="activity graph" width="95%"/>
+
 </div>
 
----
+<br/>
 
-### 🤝 Connect With Me
+## 📡 `ping shubham`
 
 <div align="center">
 
 <a href="mailto:shubhambiradar0812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/shubhambiradar0812" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/shubham-biradar" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/ucufadltt6unb35qcrurlbaa" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.instagram.com/shubhambiradar0812"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/shubham-biradar"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/ucufadltt6unb35qcrurlbaa"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+
+<br/><br/>
+
+```java
+if (youNeedABackendDev || youWantToCollaborate) {
+    shubham.reply("Let's build something great! 🚀");
+}
+```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCAF45,25:FD1D1D,50:C13584,75:833AB4,100:405DE6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer&animation=twinkling" width="100%"/>
