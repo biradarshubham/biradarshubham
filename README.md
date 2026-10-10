@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=700&height=45&lines=%24+whoami+%E2%86%92+Shubham+Biradar;Associate+Software+Engineer+%40+Test+Yantra;System.out.println(%22Building+scalable+backends%22)%3B;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;while(alive)+%7B+learn()%3B+code()%3B+ship()%3B+%7D)](https://git.io/typing-svg)
 
 ![Views](https://komarev.com/ghpvc/?username=biradarshubham&label=PROFILE+VIEWS&color=00f5d4&style=flat-square&labelColor=0d1117)
-![Location](https://img.shields.io/badge/📍_Bengaluru-India-00f5d4?style=flat-square&labelColor=0d1117)
+![Location](https://img.shields.io/badge/📍_Pune,Maharashtra-India-00f5d4?style=flat-square&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/status-open_to_collaborate-39ff14?style=flat-square&labelColor=0d1117)
 ![Coffee](https://img.shields.io/badge/fuel-coffee_☕_+_Java_☕-ED8B00?style=flat-square&labelColor=0d1117)
 
