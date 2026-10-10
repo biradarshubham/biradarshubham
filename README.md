@@ -16,10 +16,10 @@
 <tr>
 <td width="34%" align="center" valign="middle">
 
-<img src="devloper.gif" alt="Shubham Biradar" width="100%">
+<img src="devloper.gif" alt="Shubham Biradar" width="80%">
 
 
-**`< Shubham />`**
+**`< Shubham vijaykumar biradar />`**
 
 </td>
 <td width="66%" valign="top">
