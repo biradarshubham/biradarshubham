@@ -16,7 +16,7 @@
 <tr>
 <td width="34%" align="center" valign="middle">
 
-<img src="(https://github.com/biradarshubham/biradarshubham/blob/870a3dbfdb4f5e2f97c0d9223700ef7746626c39/devloper.gif)" alt="Shubham Biradar" width="100%">
+<img src="devloper.gif" alt="Shubham Biradar" width="100%">
 
 
 **`< Shubham />`**
