@@ -101,9 +101,9 @@ flowchart LR
 <div align="center">
 <table>
 <tr>
-<td align="center"><img src="assets/photo-1.jpg" width="230" alt="Shubham"/><br/><sub><code>commit: confident</code></sub></td>
-<td align="center"><img src="assets/photo-3.jpg" width="230" alt="Shubham"/><br/><sub><code>commit: always smiling</code></sub></td>
-<td align="center"><img src="assets/photo-2.jpg" width="230" alt="Shubham"/><br/><sub><code>commit: ready to ship</code></sub></td>
+<td align="center"><img src="parampara.png" width="230" alt="Shubham"/><br/><sub><code>commit: confident</code></sub></td>
+<td align="center"><img src="shubhcart.png" width="230" alt="Shubham"/><br/><sub><code>commit: always smiling</code></sub></td>
+<td align="center"><img src="bank.png" width="230" alt="Shubham"/><br/><sub><code>commit: being ready to ship</code></sub></td>
 </tr>
 </table>
 </div>
