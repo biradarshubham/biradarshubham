@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=SHUBHAM%20BIRADAR&fontSize=48&fontColor=00f5d4&fontAlignY=42&animation=twinkling&desc=%7B%20Java%20Backend%20Developer%20%7C%20Spring%20Boot%20Engineer%20%7D&descSize=18&descColor=c9d1d9&descAlignY=68" width="100%"/>
-
+![logo](https://github.com/biradarshubham/biradarshubham/blob/main/shubham_banner.png)
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=700&height=45&lines=%24+whoami+%E2%86%92+Shubham+Biradar;Associate+Software+Engineer+%40+Test+Yantra;System.out.println(%22Building+scalable+backends%22)%3B;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;while(alive)+%7B+learn()%3B+code()%3B+ship()%3B+%7D)](https://git.io/typing-svg)
